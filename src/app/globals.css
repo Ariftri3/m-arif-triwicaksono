@@ -1,0 +1,55 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: #000;
+  color: white;
+}
+
+::selection {
+  background: #2563eb;
+  color: white;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #09090b;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #2563eb;
+  border-radius: 999px;
+}
+
+body {
+  background: #000;
+  color: white;
+}
+
+section {
+  position: relative;
+}
+
+::selection {
+  background: #2563eb;
+  color: white;
+}
+
+body {
+  background-color: #050505;
+  background-image:
+    linear-gradient(rgba(255,255,255,.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255,255,255,.03) 1px, transparent 1px);
+
+  background-size: 50px 50px;
+}
+
+#projects .group:hover {
+  box-shadow: 0 0 30px rgba(59, 130, 246, 0.2);
+}
