@@ -16,10 +16,10 @@ return (
         </span>
 
         <h1 className="text-5xl md:text-7xl font-black leading-tight">
-        Muhamad
+        Mohamad
         <br />
         <span className="text-blue-500">
-            Fathul Saif
+            Arif Triwicaksono
         </span>
         </h1>
 
@@ -53,7 +53,7 @@ return (
 
         <div>
             <h3 className="text-3xl font-bold text-blue-500">
-            15+
+            5+
             </h3>
             <p className="text-zinc-400 text-sm">
             Project
@@ -87,7 +87,7 @@ return (
         <div className="absolute inset-0 bg-blue-500 blur-[100px] opacity-30 rounded-full"></div>
 
         <img
-            src="/images/profile/me.jpg"
+            src="/images/profile/me.jpeg"
             alt="Profile"
             className="relative w-80 h-80 md:w-96 md:h-96 rounded-full object-cover border-4 border-blue-500 shadow-2xl shadow-blue-500/30"
         />

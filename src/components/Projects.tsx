@@ -5,31 +5,31 @@ title: "AI Interior Visualizer",
 description:
     "Aplikasi berbasis Python yang menggunakan AI untuk menghasilkan visualisasi interior rumah berdasarkan input pengguna.",
 tech: ["Python", "AI", "Computer Vision"],
-github: "https://github.com/MFNASA/mobile-visualisasi-interior-berbasis-ai.git",
+github: "https://github.com/Ariftri3/interior-desain-berbasis-ai.git",
 },
 {
-icon: "🏔️",
-title: "Rekomendasi Gunung Menggunakan Naive Bayes",
+icon: "📰",
+title: "Pendetksi Berita Dengan Menggunakan Naive Bayes",
 description:
-    "Sistem rekomendasi gunung di Indonesia berdasarkan tingkat pengalaman pendaki.",
+    "Sistem deteksi berita palsu menggunakan algoritma Naive Bayes.",
 tech: ["Python", "Machine Learning"],
-github: "https://github.com/MFNASA/machine-learning-gunungpedia.git",
+github: "https://github.com/Ariftri3/pendeteksi-berita-hoax-dengan-ai.git",
+},
+{
+icon: "🍽️",
+title: "Aplikasi Cathering",
+description:
+    "Aplikasi Cathering dan jajanan pasar ",
+tech: ["php", "Laravel", "MySQL"],
+github: "https://github.com/mfaizyudhi/catering.git",
 },
 {
 icon: "🗺️",
-title: "Aplikasi Peta Offline",
+title: "Web Pariwisata",
 description:
-    "Aplikasi Flutter yang memungkinkan pengguna mengakses peta tanpa koneksi internet.",
-tech: ["Flutter", "Dart"],
-github: "https://github.com/MFNASA",
-},
-{
-icon: "🗳️",
-title: "Sistem E-Voting",
-description:
-    "Aplikasi pemilihan ketua himpunan berbasis Java Desktop dengan autentikasi dan perhitungan suara otomatis.",
-tech: ["Java", "MySQL"],
-github: "https://github.com/MFNASA/aplikasi-e-voting.git",
+    "Web Pariwisata dan pemesanan tiket Liburan.",
+tech: ["HTML", "CSS", "JavaScript", "MySQL"],
+github: "https://github.com/Ariftri3/Web-Pariwisata.git",
 },
 ];
 

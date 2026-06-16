@@ -3,8 +3,7 @@ const certificateGroups = [
     title: "Oracle Academy",
     icon: "💻",
     certificates: [
-      "/certificates/ai.png",
-      "/certificates/ai2.png",
+     "https://drive.google.com/drive/folders/1Ol8QIeXmlQyNs5fqYu19KggUUpT3zep1?usp=sharing",
     ],
   },
 
@@ -12,26 +11,17 @@ const certificateGroups = [
     title: "Invofest",
     icon: "🏆",
     certificates: [
-      "/certificates/peserta invofest.jpg",
-      "/certificates/panitia invofest.jpg",
+      "https://drive.google.com/drive/folders/1Ol8QIeXmlQyNs5fqYu19KggUUpT3zep1?usp=sharing",
     ],
   },
 
-  {
-    title: "Organization",
-    icon: "📜",
-    certificates: [
-      "/certificates/sertif psc 1.png",
-      "/certificates/sertif ck.png",
-    ],
-  },
+
 
   {
     title: "Networking",
     icon: "🌐",
     certificates: [
-      "/certificates/jamkom.png",
-      "/certificates/jarkom2.png",
+     "https://drive.google.com/drive/folders/1Ol8QIeXmlQyNs5fqYu19KggUUpT3zep1?usp=sharing",
     ],
   },
 ];
@@ -79,7 +69,7 @@ export default function Certificates() {
                 </h3>
 
                 <p className="text-sm text-zinc-400">
-                  {cert.certificates.length} Sertifikat
+                  1 Link Google Drive
                 </p>
               </div>
             </div>
@@ -103,7 +93,7 @@ export default function Certificates() {
                     transition
                   "
                 >
-                  Sertifikat {i + 1}
+                  Lihat Sertifikat
                 </a>
               ))}
             </div>

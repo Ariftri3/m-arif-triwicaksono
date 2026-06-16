@@ -11,7 +11,7 @@ return (
 
     {/* Logo */}
     <h1 className="text-2xl font-black">
-        <span className="text-blue-500">MFS</span>.
+        <span className="text-blue-500">Arif</span>.
     </h1>
 
     {/* Desktop Menu */}

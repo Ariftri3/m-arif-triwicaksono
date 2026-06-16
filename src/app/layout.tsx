@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "fathulk saif portfolio",
-  description: "Portofolio pribadi fathul saif - Web Developer",
+  title: "Ariftri Portfolio",
+  description: "Portofolio pribadi Ariftri- Web Developer",
 };
 
 export default function RootLayout({
